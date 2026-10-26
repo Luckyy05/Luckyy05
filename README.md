@@ -1,4 +1,4 @@
-# Lucky Sen
+# Hi, I'm Lucky 👋
 
 **Third-Year B.Tech Computer Science Student**  
 Specializing in Artificial Intelligence & Machine Learning  
@@ -14,7 +14,7 @@ Currently, I'm focused on developing skills in data analysis, machine learning, 
 
 ---
 
-## What I'm Currently Working On
+## 🚀 What I'm Currently Working On
 
 - **Data Analysis**: Learning to work with data using Pandas, NumPy, and Python
 - **Machine Learning & AI**: Exploring how to build practical AI applications
@@ -23,7 +23,7 @@ Currently, I'm focused on developing skills in data analysis, machine learning, 
 
 ---
 
-## Technical Skills
+## 🧰 Technical Skills
 
 **Programming Languages**: Python, SQL
 
@@ -33,9 +33,9 @@ Currently, I'm focused on developing skills in data analysis, machine learning, 
 
 ---
 
-## Featured Projects
+## 💻 Featured Projects
 
-### 🤖 AI WhatsApp Auto-Reply Bot
+### 🤖 [AI WhatsApp Auto-Reply Bot](https://github.com/Luckyy05/Ai-auto-reply-bot)
 *An exploration of browser automation and AI integration*
 
 I built this AI-powered WhatsApp auto-reply bot to understand how browser automation and AI APIs can work together in real-world applications.
@@ -48,11 +48,9 @@ I built this AI-powered WhatsApp auto-reply bot to understand how browser automa
 
 **Tech Stack**: Python, Playwright, Grok AI API
 
-[View on GitHub](https://github.com/Luckyy05/Ai-auto-reply-bot)
-
 ---
 
-### 🎙️ JARVIS Voice Assistant
+### 🎙️ [JARVIS Voice Assistant](https://github.com/Luckyy05/personal_Voice_assitant--jarvis-)
 *An AI-powered voice assistant exploring speech recognition and voice interaction*
 
 JARVIS is a voice assistant project that helped me learn about speech recognition, text-to-speech conversion, and API integration.
@@ -65,11 +63,9 @@ JARVIS is a voice assistant project that helped me learn about speech recognitio
 
 **Tech Stack**: Python, Google Gemini API, SpeechRecognition, pyttsx3
 
-[View on GitHub](https://github.com/Luckyy05/personal_Voice_assitant--jarvis-)
-
 ---
 
-## Career Goals
+## 🎯 Career Goals
 
 I'm currently preparing for internship opportunities in:
 - AI/ML Development
@@ -83,7 +79,7 @@ I'm particularly interested in roles where I can build AI applications and devel
 
 ---
 
-## Learning Philosophy
+## 📚 Learning Philosophy
 
 I believe in learning in public and documenting my progress. I'm always open to:
 - Feedback on code structure and best practices
@@ -93,10 +89,10 @@ I believe in learning in public and documenting my progress. I'm always open to:
 
 ---
 
-## Get In Touch
+## 📧 Get In Touch
 
-📧 Email: [luckysen247@gmail.com](mailto:luckysen247@gmail.com)  
-💻 GitHub: [github.com/Luckyy05](https://github.com/Luckyy05)
+Email: [luckysen247@gmail.com](mailto:luckysen247@gmail.com)  
+GitHub: [github.com/Luckyy05](https://github.com/Luckyy05)
 
 ---
 
